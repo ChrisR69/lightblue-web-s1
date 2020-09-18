@@ -1,4 +1,12 @@
 {
   "APIs": {
+  "catalog": {
+    "host": "lightblue-catalog-s1.mybluemix.net",
+    "base_path": "/micro"
+  },
+  "customer": {
+    "host": "lightblue-customer-s1.mybluemix.net",
+    "base_path": "/micro"
+  }
   }
 }
